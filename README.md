@@ -10,4 +10,4 @@ In this project is to use of Python to explore data related to bike share system
 - What is the Trip duration? (total travel time, average travel time)
 - What is the User info? (counts of each user type, counts of each gender (only available for NYC and Chicago), earliest, most recent, most common year of birth (only available for NYC and Chicago)
 ## The Files
-The three cities files available in data folder
+The three cities files available in data.rar file
